@@ -1,0 +1,7 @@
+.gallery{
+    display: flex;
+    justify-content: space-around;
+}
+.thumbnail-image{
+    width: 25%;
+}
